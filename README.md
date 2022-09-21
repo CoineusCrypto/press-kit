@@ -23,7 +23,7 @@ ___
 
 ![Quicksand](https://raw.githubusercontent.com/CoineusCrypto/press-kit/main/fonts/quicksand_glyphs.png)
 
-[Oswald](https://fonts.google.com/specimen/Oswald?query=oswald&preview.text=Coineus&preview.text_type=custom#standard-styles)
+[Titan One](https://fonts.google.com/specimen/Titan+One?preview.text=Coineus&preview.text_type=custom)
 
-![Oswald](https://raw.githubusercontent.com/CoineusCrypto/press-kit/main/fonts/oswald_glyphs.png)
+![Titan One](https://raw.githubusercontent.com/CoineusCrypto/press-kit/main/fonts/titan_one_glyphs.png)
 ___
